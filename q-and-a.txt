@@ -2,26 +2,28 @@ Please answer the following questions:
 
 1. What is your full name?
 
-
+Maria Victoria van Eerdewijk 
 
 2. What is the username for your GitHub account?
 
-
+vickyvaneerdewijk
 
 3. Where is your hometown?
 
-
+Caracas, Venezuela
 
 4. What is your favorite local restaurant?
 
-
+100 Montaditos
 
 5. Name the last good book you read (title, author?).
 
-
+1984, George Orwell 
 
 6. Which album/artist is in heavy rotation on your iPod/iPhone/MP3 player/stream?
 
-
+Julieta Venegas
 
 7. If you were to build a web site for fun, what would it be about?
+ 
+Venezuelan politics
